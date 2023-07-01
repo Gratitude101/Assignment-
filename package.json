@@ -1,0 +1,24 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "automation test scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gratitude101/Assignment-.git"
+  },
+  "author": "Andrew Agabaidu Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gratitude101/Assignment-/issues"
+  },
+  "homepage": "https://github.com/Gratitude101/Assignment-#readme",
+  "devDependencies": {
+    "cypress": "^12.16.0",
+    "mocha": "^10.2.0",
+    "mochawesome": "^7.1.3"
+  }
+}
